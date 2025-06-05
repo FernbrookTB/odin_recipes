@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(241, 240, 216);
+    font-family: cursive;
+
+}
+h1 {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+    
+    
+    }
+h2 {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 2px;
+    font-size: 24px;
+    padding-bottom: 5px;
+    width: 400px;
+   
+    
+}
+.section-title {
+display: flexbox;
+border-bottom: 2px solid black;
+margin-bottom: 10px;
+
+
+}
+p {
+    text-align: center;
+    max-width: ;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #333;
+    
+}
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px rgb(0, 0, 0);
+    border-style: solid;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+    margin-bottom: 20px;
+    
+}
+ .back-link {
+    display: inline-block;
+    margin-top: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 20px;
+}
+.back-link:hover {
+    text-decoration: underline;
+    color: darkblue;
+
+}
+.Home-link {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 4px;
+}
+.Home-link:hover {
+    text-decoration: underline;
+    color: darkblue
+}
+.sections-box {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px;
+
+}
